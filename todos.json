@@ -13,6 +13,27 @@
       "deadline": "2000-01-01",
       "completed": true,
       "archived": true
+    },
+    {
+      "title": "pierwsze zadanko testowe",
+      "deadline": "2023-12-16",
+      "completed": false,
+      "archived": false,
+      "id": 3
+    },
+    {
+      "title": "drugie zadanko testowe",
+      "deadline": "2023-12-18",
+      "completed": true,
+      "archived": true,
+      "id": 4
+    },
+    {
+      "title": "testowe zadanko fajne",
+      "deadline": "2023-12-26",
+      "completed": true,
+      "archived": false,
+      "id": 5
     }
   ]
 }
